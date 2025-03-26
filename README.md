@@ -20,6 +20,7 @@ Config more in `config/index.ts` file:
 ```js
 export const APP_INFO: AppInfo = {
   title: 'Chat APP',
+  title: '小胡老师教小学数学',
   description: '',
   copyright: '',
   privacy_policy: '',
